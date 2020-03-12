@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="17" failures="0" name="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" time="0.032" errors="0" skipped="0">
+<testsuite tests="17" failures="0" name="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" time="0.033" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.6+10-post-Ubuntu-1ubuntu119.10.1"/>
@@ -61,7 +61,7 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsNumberForInputNotDivisibleByThreeOrFive(1) [0]" time="0.03"/>
+  <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsNumberForInputNotDivisibleByThreeOrFive(1) [0]" time="0.033"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsNumberForInputNotDivisibleByThreeOrFive(2) [1]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsNumberForInputNotDivisibleByThreeOrFive(4) [2]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsNumberForInputNotDivisibleByThreeOrFive(7) [3]" time="0"/>
@@ -71,10 +71,10 @@
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFIZZBUZZForNumbersDivisibleByThreeAndFive(15) [0]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFIZZBUZZForNumbersDivisibleByThreeAndFive(30) [1]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFIZZBUZZForNumbersDivisibleByThreeAndFive(45) [2]" time="0"/>
-  <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFIZZBUZZForNumbersDivisibleByThreeAndFive(60) [3]" time="0.001"/>
+  <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFIZZBUZZForNumbersDivisibleByThreeAndFive(60) [3]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFizzForNummbersDivisibleByThree(9) [0]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFizzForNummbersDivisibleByThree(3) [1]" time="0"/>
-  <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFizzForNummbersDivisibleByThree(66) [2]" time="0.001"/>
+  <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsFizzForNummbersDivisibleByThree(66) [2]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsBUZZForNumbersDivisibleByFive(5) [0]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsBUZZForNumbersDivisibleByFive(10) [1]" time="0"/>
   <testcase classname="fr.unistra.fizzbuzz.FizzBuzzJUnitParamsTest" name="returnsBUZZForNumbersDivisibleByFive(20) [2]" time="0"/>

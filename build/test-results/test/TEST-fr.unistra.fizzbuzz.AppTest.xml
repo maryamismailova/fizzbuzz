@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.unistra.fizzbuzz.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-12T10:23:41" hostname="OMEN-HP-Laptop" time="0.0">
+  <properties/>
+  <testcase name="testApp" classname="fr.unistra.fizzbuzz.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
